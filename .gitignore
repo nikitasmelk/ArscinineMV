@@ -1,0 +1,32 @@
+# Unreal generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.suo
+*.vcxproj*
+.vscode/
+.vs/
+
+# Build artifacts / executables
+*.exe
+*.dll
+*.pdb
+*.app
+*.dSYM/
+
+# Mac / Windows OS junk
+.DS_Store
+Thumbs.db
+
+# IDE and misc
+*.log
+*.user
+*.opensdf
+*.sdf
+*.cache
+*.VC.db
+
+# If you keep plugins in engine folder, they’re not here.
+# If you keep project plugins in /Plugins, that folder should NOT be ignored.
